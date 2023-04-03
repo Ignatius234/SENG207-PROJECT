@@ -1,3 +1,7 @@
+# IGNATIUS DARKWA ASAMOAH
+# 10982280
+# MATERIAL SCIENCE AND ENGINEERING 
+
 import PySimpleGUI as sg
 import qrcode
 import os
